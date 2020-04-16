@@ -1,0 +1,51 @@
+true	Jan 1, 2019	Opening Balance	500.0	other	one time	Jan 1, 2019	1	
+false	Jan 1, 2019	Mortgage	-850.67	mortgage	monthly	Jan 1, 2038	2	
+false	Jan 1, 2019	Electric Bill	-45.21	utilities	monthly	Feb 1, 2019	3	
+false	Jan 1, 2019	Gas Bill	-78.23	utilities	monthly	Feb 1, 2019	4	
+true	Jan 4, 2019	Pay	1250.0	other	bi-weekly	Jan 18, 2019	5	
+false	Jan 5, 2019	Stop & Shop	-125.12	groceries	one time	Jan 5, 2019	6	
+false	Jan 8, 2019	Movies	-35.83	entertainment	one time	Jan 8, 2019	7	
+false	Jan 10, 2019	Hospital Bill	-50.0	medical	monthly	Feb 10, 2019	8	
+false	Jan 12, 2019	Charity Donation	-25.0	other	one time	Jan 12, 2019	9	
+false	Jan 15, 2019	Auto Insurance	-98.12	auto	monthly	Feb 15, 2019	10	
+true	Jan 18, 2019	Pay	1250.0	other	bi-weekly	Feb 1, 2019	11	
+false	Jan 29, 2019	Stop & Shop	-155.12	groceries	one time	Jan 29, 2019	12	
+false	Jan 25, 2019	Student Loan	-98.12	loan	monthly	Feb 25, 2019	13	
+false	Jan 28, 2019	American Express	-150.0	credit	monthly	Feb 28, 2019	14	
+false	Feb 1, 2019	Mortgage	-850.67	mortgage	monthly	Jan 1, 2038	15	
+true	Feb 1, 2019	Pay	1250.0	other	bi-weekly	Feb 15, 2019	16	
+false	Feb 1, 2019	Electric Bill	-42.67	utilities	monthly	Mar 1, 2019	17	
+false	Feb 1, 2019	Gas Bill	-88.29	utilities	monthly	Mar 1, 2019	18	
+false	Feb 7, 2019	Stop & Shop	-115.22	groceries	one time	Feb 7, 2019	19	
+false	Feb 8, 2019	Hockey Game	-155.83	entertainment	one time	Feb 8, 2019	20	
+false	Feb 10, 2019	Hospital Bill	-50.0	medical	monthly	Mar 10, 2019	21	
+false	Feb 15, 2019	Auto Insurance	-98.12	auto	monthly	Mar 15, 2019	22	
+true	Feb 15, 2019	Pay	1250.0	other	bi-weekly	Mar 1, 2019	23	
+false	Feb 17, 2019	Piano Lesson	-28.80	other	one time	Feb 17, 2019	24	
+false	Feb 21, 2019	Stop & Shop	-127.92	groceries	one time	Feb 21, 2019	25	
+false	Feb 25, 2019	Student Loan	-98.12	loan	monthly	Mar 25, 2019	26	
+false	Feb 28, 2019	American Express	-150.0	credit	monthly	Mar 28, 2019	27	
+false	Mar 1, 2019	Mortgage	-850.67	mortgage	monthly	Jan 1, 2038	28	
+true	Mar 1, 2019	Pay	1250.0	other	bi-weekly	Mar 15, 2019	29	
+false	Mar 1, 2019	Electric Bill	-38.81	utilities	monthly	Apr 1, 2019	30	
+false	Mar 1, 2019	Gas Bill	-68.83	utilities	monthly	Apr 1, 2019	31	
+false	Mar 5, 2019	Birthday Gift	-50.80	other	one time	Mar 5, 2019	32	
+false	Mar 8, 2019	Dinner	-85.63	entertainment	one time	Mar 8, 2019	33	
+false	Mar 10, 2019	Hospital Bill	-50.0	medical	monthly	Apr 10, 2019	34	
+false	Mar 12, 2019	Stop & Shop	-115.87	groceries	one time	Mar 12 2019	35	
+false	Mar 15, 2019	Auto Insurance	-98.12	auto	monthly	Apr 15, 2019	36	
+true	Mar 15, 2019	Pay	1250.0	other	bi-weekly	Mar 29, 2019	37	
+false	Mar 25, 2019	Student Loan	-98.12	loan	monthly	Apr 25, 2019	38	
+false	Mar 28, 2019	American Express	-150.0	credit	monthly	Apr 28, 2019	39	
+true	Mar 29, 2019	Pay	1250.0	other	bi-weekly	Apr 12, 2019	40	
+false	Apr 1, 2019	Mortgage	-850.67	mortgage	monthly	May 1, 2038	41	
+false	Apr 1, 2019	Electric Bill	-47.54	utilities	monthly	May 1, 2019	42	
+false	Apr 1, 2019	Gas Bill	-48.23	utilities	monthly	May 1, 2019	43	
+false	Apr 5, 2019	Stop & Shop	-138.12	groceries	one time	Apr 5, 2019	44	
+false	Apr 10, 2019	Hospital Bill	-50.0	monthly	medical	May 10, 2019	45	
+true	Apr 12, 2019	Pay	1250.0	other	bi-weekly	Apr 26, 2019	46	
+false	Apr 15, 2019	Auto Insurance	-98.12	auto	monthly	May 15, 2019	47	
+false	Apr 17, 2019	New Clothes	-255.80	other	one time	Apr 17, 2019	48	
+false	Apr 25, 2019	Student Loan	-98.12	loan	monthly	May 25, 2019	49	
+false	Apr 28, 2019	American Express	-150.0	credit	monthly	May 28, 2019	50	
+false	Apr 30, 2019	test	-500.0	other	one time	Apr 30, 2019	51	

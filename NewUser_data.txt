@@ -1,0 +1,2 @@
+true	Apr 20, 2019	Opening Balance	550.00	other	one time	Apr 20, 2019	1	
+false	Apr 20, 2019	water bill	-500.0	mortgage	quarterly	Apr 20, 2019	2	

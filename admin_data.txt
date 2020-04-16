@@ -1,0 +1,15 @@
+true	Jan 19, 2019	Opening Balance	250.00	other	one time	Jan 19, 2019	1	
+false	Jan 1, 2019	Mortgage	-850.64	mortgage	monthly	Jan 1, 2038	2	
+false	Jan 1, 2019	Electric Bill	-45.21	utilities	monthly	Feb 1, 2019	3	
+false	Jan 1, 2019	Gas Bill	-78.23	utilities	monthly	Feb 1, 2019	4	
+true	Jan 4, 2019	Pay	1250.0	other	bi-weekly	Jan 18, 2019	5	
+false	Jan 5, 2019	Stop & Shop	-125.12	groceries	one time	Jan 5, 2019	6	
+false	Jan 8, 2019	Movies	-35.83	entertainment	one time	Jan 8, 2019	7	
+false	Jan 10, 2019	Hospital Bill	-50.0	medical	monthly	Feb 10, 2019	8	
+false	Jan 12, 2019	Charity Donation	-25.0	other	one time	Jan 12, 2019	9	
+false	Jan 15, 2019	Auto Insurance	-98.12	auto	monthly	Feb 15, 2019	10	
+true	Jan 18, 2019	Pay	1250.0	other	bi-weekly	Feb 1, 2019	11	
+false	Jan 19, 2019	Stop & Shop	-155.12	groceries	one time	Jan 19, 2019	12	
+false	Jan 25, 2019	Student Loan	-98.12	loan	monthly	Feb 25, 2019	13	
+false	Jan 28, 2019	American Express	-150.0	credit	monthly	Feb 28, 2019	14	
+false	Jan 31, 2019	Stop & Shop	-33.57	grocery	one time	Jan 31, 2019	15	
